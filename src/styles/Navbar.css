@@ -1,0 +1,11 @@
+nav {
+  box-shadow: 0 7px 20px -15px rgba(0, 0, 0, 0.4);
+}
+
+.navbar {
+  padding: 25px 10px;
+}
+
+.logo {
+  width: 160px;
+}

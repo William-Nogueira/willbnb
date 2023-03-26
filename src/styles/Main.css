@@ -1,0 +1,22 @@
+.photo {
+  padding: 35px 0;
+  width: 75%;
+  display: block;
+  margin: auto;
+}
+
+.text-container {
+  max-width: 650px;
+}
+
+.experiences {
+  font-size: 56px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+.join {
+  font-size: 26px;
+  font-weight: 300;
+  padding-bottom: 40px;
+}
